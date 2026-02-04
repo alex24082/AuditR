@@ -21,6 +21,12 @@ Poate genera rapoarte in format **HTML** sau **JSON**.
 
 ---
 
+## Documentatie
+
+- `DOCUMENTATIE.md` (documentatie extinsa)
+
+---
+
 ## Instalare
 
 ```bash
