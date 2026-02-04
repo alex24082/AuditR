@@ -1,0 +1,9 @@
+# AuditR - Docker Compose
+version: '3'
+
+services:
+  auditr:
+    build: .
+    volumes:
+      - ./output:/app/output
+    command: ["-a", "-f", "html", "-o", "/app/output/raport.html"]
