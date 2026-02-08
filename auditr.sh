@@ -1,6 +1,4 @@
-#!/bin/bash
-# AuditR - Tool CLI pentru audit de securitate pe Linux
-# Autor: Mizea Vlad Alexandru (SC 31)
+
 
 VERSION="1.0"
 
