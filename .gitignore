@@ -1,8 +1,8 @@
-# Rapoarte generate
+
 output/*.html
 output/*.json
 
-# Fisiere temporare
+
 *.tmp
 *.log
 *~
